@@ -49,9 +49,10 @@ body {
     border-radius: 50%;
 }
 h1 {
-    border:white dashed;
-    border-radius: 40%;
+    border:white double;
+    border-radius: 30%;
     text-align: center;
+    color: rgb(60, 70, 77);
 }
 #zig {
     float: right;
@@ -62,4 +63,30 @@ h1 {
 }
 #nah {
     line-height: 30px;
+}
+p {
+  text-align: center;
+  font-style: italic;
+  font-size: 15pt;
+}
+#img {
+  height: 200px;
+  width: 300px;
+  border: white 0px;
+  border-radius: 30%;
+}
+#col {
+  text-align: center;
+}
+.flex {
+  display: block;
+}
+ul {
+  font-size: 13pt;
+}
+#quad {
+  height: 300px;
+  width: 400px;
+  border: white 0px;
+  border-radius: 30%;
 }
