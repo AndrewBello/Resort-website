@@ -3,7 +3,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: rgb(77, 130, 155);
+    background-color: limegreen;
     text-align: center;
   }
   
@@ -20,7 +20,7 @@ ul {
   }
   
   li a:hover {
-    background-color:rgb(60, 70, 77);
+    background-color:lime;
     border: white;
     border-width: 0px;
     border-radius: 50%;
@@ -28,7 +28,7 @@ ul {
   
 
 body {
-    background-color: rgb(77, 130, 155);
+    background-color: limegreen;
     color: white;
     ;
 }
@@ -52,7 +52,7 @@ h1 {
     border:white double;
     border-radius: 30%;
     text-align: center;
-    color: rgb(60, 70, 77);
+    color: rgb(85, 92, 97);
 }
 #zig {
     float: right;
@@ -93,7 +93,7 @@ ul {
 h3 {
   margin-left: 130px;
   text-align: left;
-  color: rgb(60, 70, 77);
+  color: rgb(85, 92, 97);
 }
 #cont {
   text-align: left;
