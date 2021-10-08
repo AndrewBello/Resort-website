@@ -90,3 +90,32 @@ ul {
   border: white 0px;
   border-radius: 30%;
 }
+h3 {
+  margin-left: 130px;
+  text-align: left;
+  color: rgb(60, 70, 77);
+}
+#cont {
+  text-align: left;
+}
+#cod {
+  text-align: center;
+  display: block;
+}
+#res {
+  margin-left: 10px;
+  height: 400px;
+  width: 500px;
+  border: white 0px;
+  border-radius: 35%;
+}
+#image {
+  border-radius: 20%;
+  padding-bottom: 10px;
+}
+#acco {
+  display: flex;
+}
+#seive {
+  padding:70px;
+}
